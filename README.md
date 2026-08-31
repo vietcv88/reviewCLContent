@@ -35,6 +35,19 @@ mỗi bài ghi rõ lấy từ khóa nào, id bài gốc là bao nhiêu, hay là 
 Từ mỗi bài trong khóa gộp bấm được sang **đúng bài gốc trong trang review**, và
 ngược lại trang review của khóa nguồn cũng cho biết nó đang được khóa gộp nào dùng.
 
+### Giáo trình chi tiết
+
+Trang 1 có khối **"Giáo trình chi tiết"** — nội dung soạn thật để dạy và để quay.
+Mỗi bài có **3 tab**:
+
+| Tab | Nội dung |
+|---|---|
+| Nội dung bài | Bài giảng dạng văn bản, tách phần cho học sinh và phần cho giáo viên |
+| Slide | Từng slide có tiêu đề, gạch đầu dòng, và mô tả hình cần dựng |
+| Kịch bản video | Bảng theo mốc thời gian: quay gì · lời đọc nguyên văn · chữ hiện lên · lưu ý kỹ thuật |
+
+Hiện có: **ScratchJr lớp 1–2** — 32 bài, 143 slide, 118 cảnh quay.
+
 Bản khuyến nghị chốt: **[RECOMMENDATION.md](RECOMMENDATION.md)**.
 
 ## Quy ước màu
