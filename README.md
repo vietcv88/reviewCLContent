@@ -20,6 +20,12 @@ Trang 1 có thêm khối **"Khóa gộp"** — khóa mới dựng bằng cách l
 khóa nguồn. Bấm vào để xem **lộ trình như một khóa thật** (chương → mục → bài),
 mỗi bài ghi rõ lấy từ khóa nào, id bài gốc là bao nhiêu, hay là soạn mới.
 
+| Khóa gộp | Bài | Chương | Tái sử dụng |
+|---|---:|---:|---:|
+| Scratch — Lớp 3–5 | 110 | 7 | 95% |
+| Python — Lớp 6–9 | 181 | 8 | 99% |
+| Python — Lớp 10–12 | 222 | 8 | 99% |
+
 | Nhãn | Màu | Ý nghĩa |
 |---|---|---|
 | Dùng nguyên | 🟢 Xanh | Lấy nguyên bài cũ, không sửa nội dung |
