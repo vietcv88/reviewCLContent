@@ -24,7 +24,7 @@ mỗi bài ghi rõ lấy từ khóa nào, id bài gốc là bao nhiêu, hay là 
 |---|---:|---:|---:|---|
 | Scratch — Lớp 3–5 | 110 | 7 | 95% | **32/32 bài, 87 chỗ** |
 | Python — Lớp 6–9 | 181 | 8 | 99% | **37/38 bài, 73 chỗ** |
-| Python — Lớp 10–12 | 222 | 8 | 99% | đang soạn |
+| Python — Lớp 10–12 | 222 | 8 | 99% | **31/32 bài, 69 chỗ** |
 
 **Sửa như thế nào:** bài nào phải sửa đều có mục *"Sửa như thế nào"* — hai ô cạnh
 nhau, **Bản gốc** và **Sửa thành**, kèm lý do; bên dưới là nguyên văn bài gốc với
@@ -53,6 +53,7 @@ Mỗi bài có **3 tab**:
 Hiện có: **ScratchJr lớp 1–2** — 32 bài, 143 slide, 118 cảnh quay.
 
 Bản khuyến nghị chốt: **[RECOMMENDATION.md](RECOMMENDATION.md)**.
+Quy trình làm việc: **[WORKFLOW.md](WORKFLOW.md)**.
 
 ## Quy ước màu
 
