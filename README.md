@@ -14,6 +14,21 @@ Mở **[index.html](index.html)** bằng trình duyệt — không cần cài g�
 | 2 | Từng khóa ở cấp chương và mục, gắn màu theo hành động, kèm bảng điểm và đánh giá mức phù hợp với học sinh Philippines |
 | 3 | Chi tiết một bài: số liệu đo được, vấn đề phát hiện, và checklist các bước chỉnh sửa có lưu tiến độ |
 
+### Khóa gộp
+
+Trang 1 có thêm khối **"Khóa gộp"** — khóa mới dựng bằng cách lấy bài từ nhiều
+khóa nguồn. Bấm vào để xem **lộ trình như một khóa thật** (chương → mục → bài),
+mỗi bài ghi rõ lấy từ khóa nào, id bài gốc là bao nhiêu, hay là soạn mới.
+
+| Nhãn | Màu | Ý nghĩa |
+|---|---|---|
+| Dùng nguyên | 🟢 Xanh | Lấy nguyên bài cũ, không sửa nội dung |
+| Lấy về sửa | 🟡 Vàng | Lấy bài cũ về nhưng có sửa |
+| Soạn mới | 🟣 Tím | Không có bài cũ dùng được |
+
+Từ mỗi bài trong khóa gộp bấm được sang **đúng bài gốc trong trang review**, và
+ngược lại trang review của khóa nguồn cũng cho biết nó đang được khóa gộp nào dùng.
+
 Bản khuyến nghị chốt: **[RECOMMENDATION.md](RECOMMENDATION.md)**.
 
 ## Quy ước màu
