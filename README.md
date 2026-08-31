@@ -20,11 +20,15 @@ Trang 1 có thêm khối **"Khóa gộp"** — khóa mới dựng bằng cách l
 khóa nguồn. Bấm vào để xem **lộ trình như một khóa thật** (chương → mục → bài),
 mỗi bài ghi rõ lấy từ khóa nào, id bài gốc là bao nhiêu, hay là soạn mới.
 
-| Khóa gộp | Bài | Chương | Tái sử dụng |
-|---|---:|---:|---:|
-| Scratch — Lớp 3–5 | 110 | 7 | 95% |
-| Python — Lớp 6–9 | 181 | 8 | 99% |
-| Python — Lớp 10–12 | 222 | 8 | 99% |
+| Khóa gộp | Bài | Chương | Tái sử dụng | Sửa chi tiết |
+|---|---:|---:|---:|---|
+| Scratch — Lớp 3–5 | 110 | 7 | 95% | **32/32 bài, 87 chỗ** |
+| Python — Lớp 6–9 | 181 | 8 | 99% | đang soạn |
+| Python — Lớp 10–12 | 222 | 8 | 99% | đang soạn |
+
+**Sửa như thế nào:** bài nào phải sửa đều có mục *"Sửa như thế nào"* — hai ô cạnh
+nhau, **Bản gốc** và **Sửa thành**, kèm lý do; bên dưới là nguyên văn bài gốc với
+**chỗ phải sửa bôi vàng** ngay trong ngữ cảnh.
 
 | Nhãn | Màu | Ý nghĩa |
 |---|---|---|
