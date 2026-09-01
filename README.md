@@ -26,6 +26,12 @@ mỗi bài ghi rõ lấy từ khóa nào, id bài gốc là bao nhiêu, hay là 
 | Python — Lớp 6–9 | 181 | 8 | 99% | **37/38 bài, 73 chỗ** |
 | Python — Lớp 10–12 | 222 | 8 | 99% | **31/32 bài, 69 chỗ** |
 
+### Khóa phụ
+
+Năm khóa phụ cũng có hướng dẫn sửa chi tiết: Computer Essential (15 bài, 49 chỗ),
+CyberSecurity Level 1 (15 bài, 21 chỗ), Làm quen với SQL (13 bài, 13 chỗ),
+AI cho học sinh tiểu học (7 bài, 11 chỗ), Phần cứng máy tính (7 bài, 10 chỗ).
+
 **Sửa như thế nào:** bài nào phải sửa đều có mục *"Sửa như thế nào"* — hai ô cạnh
 nhau, **Bản gốc** và **Sửa thành**, kèm lý do; bên dưới là nguyên văn bài gốc với
 **chỗ phải sửa bôi vàng** ngay trong ngữ cảnh.
