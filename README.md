@@ -26,6 +26,18 @@ mỗi bài ghi rõ lấy từ khóa nào, id bài gốc là bao nhiêu, hay là 
 | Python — Lớp 6–9 | 181 | 8 | 99% | **37/38 bài, 73 chỗ** |
 | Python — Lớp 10–12 | 222 | 8 | 99% | **31/32 bài, 69 chỗ** |
 
+**Bản tiếng Anh** — dựng từ nguồn tiếng Anh, không dịch:
+
+| Khóa gộp (English) | Bài | Chương | Nguồn |
+|---|---:|---:|---|
+| Scratch for Grades 3–5 | 109 | 7 | 19 dự án Raspberry Pi (CC BY-SA 4.0) |
+| Python for Middle School (6–9) | 202 | 8 | 190 bài tiếng Anh sẵn có + 7 dự án Raspberry Pi |
+| Advanced Python (10–12) | 221 | 8 | 210 bài tiếng Anh sẵn có + 4 dự án Raspberry Pi |
+
+Bài lấy từ nguồn ngoài đều ghi rõ **giấy phép, link bài gốc và dòng ghi công**
+theo yêu cầu CC BY-SA. Danh sách nguồn ngoài và tình trạng giấy phép:
+**[EXTERNAL-CURRICULA.md](EXTERNAL-CURRICULA.md)**.
+
 ### Khóa phụ
 
 Năm khóa phụ cũng có hướng dẫn sửa chi tiết: Computer Essential (15 bài, 49 chỗ),
